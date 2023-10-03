@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-// including controllers
+// including controllersvv
 require_once('src/controllers/homepage.php');
 require_once('src/controllers/news.php');
 require_once('src/controllers/about.php');
